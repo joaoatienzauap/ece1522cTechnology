@@ -1,37 +1,38 @@
-"Term","Definition"
-"Linux","Can run on a potato"
-"Technology","A mix of processes and products used in the application of knowledge. It includes tools ranging from pencil and paper to electronic gadgets."
-"Information and Communication Technologies (ICT)","A diverse set of technological tools and resources used to transmit, store, create, or exchange information."
-"Educational Technology","A broad set of modalities, tools, and strategies for learning that helps teachers and students achieve the desired instructional goals."
-"Digital Literacy","The ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills including finding and consuming digital content, creating digital content, and communicating or sharing it."
-"Digital Learning","Any type of learning that is accompanied by technology or by instructional practice that makes effective use of technology encompassing a wide spectrum of practices, including blended learning or virtual learning, and can be online or offline, utilizing digital technology."
-"Online Learning","Modality with instructional environments supported by the Internet within and beyond school walls to provide access to instructional materials and facilitate interaction among teachers and students. It can be fully online or blended with face-to-face interactions."
-"Blended Learning","Modality where students receive significant portions of instruction through both face-to-face and online means."
-"Synchronous Learning","Learning that occurs when learners and instructors interact in real-time, typically through delivery platforms, distance learning technologies such as video conferencing, discussion forums and community chat, or collaboration and social learning technologies."
-"Asynchronous Learning","Instructional design and delivery methodology that allows students to access content or participate in learning outside of the classroom at their convenience."
-"Emergency Remote Teaching","A temporary shift of instructional delivery to an alternative mode due to crisis circumstances."
-"Online Digital Tools","Web-based tools that require an internet connection to function, such as Google Docs, Kahoot, and Zoom."
-"Offline Digital Tools","Software or applications that can be used without an internet connection, like Microsoft Word, Adobe Photoshop, or offline coding platforms."
-"Instructional Technology","The use of technology, such as digital tools and multimedia, to enhance teaching and learning processes."
-"Software","A set of instructions or programs that allow computers or devices to perform specific tasks, such as Microsoft Office or educational apps."
-"Multimedia","The combination of different content forms, such as text, images, audio, video, and animations, to present information interactively."
-"Internet","A global network of interconnected computers that enables communication, data sharing, and online access to digital resources."
-"World Wide Web (WWW)","A system of interconnected web pages and online content accessible via the internet through browsers."
-"Productivity Tools","Applications that help users complete tasks efficiently, such as Google Drive, Trello, or Microsoft Excel."
-"Design Tools","Software used to create graphics, presentations, or digital media, such as Canva, Adobe Illustrator, or Figma."
-"Discussion Tools","Platforms that facilitate online conversations and debates, such as discussion forums, chat applications, and social media."
-"Blog","A regularly updated website or online journal where individuals or organizations share written content, insights, and multimedia."
-"Wiki","A collaborative website that allows multiple users to create, edit, and share information, such as Wikipedia or educational wikis."
-"Flipped Classroom","A teaching model where students learn new content at home (via videos or readings) and use classroom time for discussions and activities."
-"Podcast","A digital audio series that covers various topics and can be streamed or downloaded for on-the-go listening."
-"Applications (Apps)","Software programs designed for specific functions, available on mobile devices or computers. Examples include Duolingo for language learning or Evernote for note-taking."
-"Vlog / Video Blog","A blog that primarily features video content, often posted on platforms like YouTube."
-"Digital Technology","Electronic tools, systems, and devices that generate, store, or process data, including computers, smartphones, and cloud-based applications."
-"Distance Learning Technologies","Tools and platforms that support remote education, such as learning management systems (LMS) and virtual classrooms."
-"Video Conferencing","Technology that enables live video and audio communication between individuals or groups over the internet, such as Zoom or Microsoft Teams."
-"Discussion Forums","Online message boards where users post and reply to topics, often used for academic or professional discussions."
-"Community Chat","Online spaces where users can engage in real-time conversations, often used for support, brainstorming, or peer interaction."
-"Collaboration Technologies","Digital tools that allow users to work together in real time, such as Google Docs, Slack, or Microsoft Teams."
-"Social Technologies","Digital platforms that support social interactions, networking, and content sharing, including Facebook, Twitter, and LinkedIn."
-"LMS (Learning Management System)","A software platform used to manage, deliver, and track educational courses and training programs, such as Moodle, Blackboard, or Canvas."
-"Smartphone","Mobile device that combines communication, computing, and multimedia capabilities, featuring a touchscreen interface, internet access, and app functionality."
+Term,Definition,Category
+Term,Definition,Uncategorized
+Linux,Can run on a potato,Digital Tools & Technologies
+Technology,A mix of processes and products used in the application of knowledge. It includes tools ranging from pencil and paper to electronic gadgets.,Digital Tools & Technologies
+Information and Communication Technologies (ICT),"A diverse set of technological tools and resources used to transmit, store, create, or exchange information.",Digital Tools & Technologies
+Educational Technology,"A broad set of modalities, tools, and strategies for learning that helps teachers and students achieve the desired instructional goals.",Digital Tools & Technologies
+Digital Literacy,"The ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills including finding and consuming digital content, creating digital content, and communicating or sharing it.",Digital Tools & Technologies
+Digital Learning,"Any type of learning that is accompanied by technology or by instructional practice that makes effective use of technology encompassing a wide spectrum of practices, including blended learning or virtual learning, and can be online or offline, utilizing digital technology.",Digital Tools & Technologies
+Online Learning,Modality with instructional environments supported by the Internet within and beyond school walls to provide access to instructional materials and facilitate interaction among teachers and students. It can be fully online or blended with face-to-face interactions.,Digital Tools & Technologies
+Blended Learning,Modality where students receive significant portions of instruction through both face-to-face and online means.,Digital Tools & Technologies
+Synchronous Learning,"Learning that occurs when learners and instructors interact in real-time, typically through delivery platforms, distance learning technologies such as video conferencing, discussion forums and community chat, or collaboration and social learning technologies.",Digital Tools & Technologies
+Asynchronous Learning,Instructional design and delivery methodology that allows students to access content or participate in learning outside of the classroom at their convenience.,Digital Tools & Technologies
+Emergency Remote Teaching,A temporary shift of instructional delivery to an alternative mode due to crisis circumstances.,Digital Tools & Technologies
+Online Digital Tools,"Web-based tools that require an internet connection to function, such as Google Docs, Kahoot, and Zoom.",Digital Tools & Technologies
+Offline Digital Tools,"Software or applications that can be used without an internet connection, like Microsoft Word, Adobe Photoshop, or offline coding platforms.",Digital Tools & Technologies
+Instructional Technology,"The use of technology, such as digital tools and multimedia, to enhance teaching and learning processes.",Digital Tools & Technologies
+Software,"A set of instructions or programs that allow computers or devices to perform specific tasks, such as Microsoft Office or educational apps.",Digital Tools & Technologies
+Multimedia,"The combination of different content forms, such as text, images, audio, video, and animations, to present information interactively.",Digital Tools & Technologies
+Internet,"A global network of interconnected computers that enables communication, data sharing, and online access to digital resources.",Digital Tools & Technologies
+World Wide Web (WWW),A system of interconnected web pages and online content accessible via the internet through browsers.,Digital Tools & Technologies
+Productivity Tools,"Applications that help users complete tasks efficiently, such as Google Drive, Trello, or Microsoft Excel.",Productivity & Design Tools
+Design Tools,"Software used to create graphics, presentations, or digital media, such as Canva, Adobe Illustrator, or Figma.",Productivity & Design Tools
+Discussion Tools,"Platforms that facilitate online conversations and debates, such as discussion forums, chat applications, and social media.",Discussion & Collaboration Tools
+Blog,"A regularly updated website or online journal where individuals or organizations share written content, insights, and multimedia.",Multimedia Applications
+Wiki,"A collaborative website that allows multiple users to create, edit, and share information, such as Wikipedia or educational wikis.",Multimedia Applications
+Flipped Classroom,A teaching model where students learn new content at home (via videos or readings) and use classroom time for discussions and activities.,Remote & Digital Learning
+Podcast,A digital audio series that covers various topics and can be streamed or downloaded for on-the-go listening.,Multimedia Applications
+Applications (Apps),"Software programs designed for specific functions, available on mobile devices or computers. Examples include Duolingo for language learning or Evernote for note-taking.",Digital Tools & Technologies
+Vlog / Video Blog,"A blog that primarily features video content, often posted on platforms like YouTube.",Multimedia Applications
+Digital Technology,"Electronic tools, systems, and devices that generate, store, or process data, including computers, smartphones, and cloud-based applications.",Digital Tools & Technologies
+Distance Learning Technologies,"Tools and platforms that support remote education, such as learning management systems (LMS) and virtual classrooms.",Remote & Digital Learning
+Video Conferencing,"Technology that enables live video and audio communication between individuals or groups over the internet, such as Zoom or Microsoft Teams.",Multimedia Applications
+Discussion Forums,"Online message boards where users post and reply to topics, often used for academic or professional discussions.",Discussion & Collaboration Tools
+Community Chat,"Online spaces where users can engage in real-time conversations, often used for support, brainstorming, or peer interaction.",Discussion & Collaboration Tools
+Collaboration Technologies,"Digital tools that allow users to work together in real time, such as Google Docs, Slack, or Microsoft Teams.",Discussion & Collaboration Tools
+Social Technologies,"Digital platforms that support social interactions, networking, and content sharing, including Facebook, Twitter, and LinkedIn.",Discussion & Collaboration Tools
+LMS (Learning Management System),"A software platform used to manage, deliver, and track educational courses and training programs, such as Moodle, Blackboard, or Canvas.",Remote & Digital Learning
+Smartphone,"Mobile device that combines communication, computing, and multimedia capabilities, featuring a touchscreen interface, internet access, and app functionality.",Uncategorized
