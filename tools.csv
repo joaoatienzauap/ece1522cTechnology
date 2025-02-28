@@ -1,40 +1,37 @@
-Tool,Description
-Boom Learning,Digital platform for interactive learning and self-checking activities.
-Canvas,LMS for digital learning and course management.
-ChatGPT,The AI that made most of the code for this glossary.
-Coggle,Online mind-mapping tool for brainstorming and organization.
-Copilot,"An AI-powered assistant developed by Microsoft to help users with coding, writing, and productivity tasks."
-DeepSeek,An advanced AI language model developed by Hangzhou DeepSeek for deep learning applications and natural language understanding.
-Design Tools,"Software used to create graphics, presentations, or digital media, such as Canva, Adobe Illustrator, or Figma."
-Flipgrid,Video discussion platform for student engagement.
-Gemini,"A family of AI models developed by Google DeepMind, designed for advanced reasoning and multimodal understanding."
-Google Classroom,LMS for managing assignments and student collaboration.
-Google Docs,Cloud-based word processing tool for collaboration.
-Google Duo,Video calling app for one-on-one and group conversations.
-Google Forms,"Tool for creating surveys, quizzes, and feedback forms."
-Google Meet,Video conferencing tool for virtual meetings and online classes.
-Google Sheets,Cloud-based spreadsheet tool for data organization.
-Google Slides,Cloud-based presentation tool for creating slideshows.
-Grammarly,"An AI-powered writing assistant that helps improve grammar, spelling, clarity, and style."
-Kahoot,Game-based learning platform for interactive quizzes.
-Linux,"Boss OS that can run on a potato (not really, but Linux on a potato was a great meme)."
-LLaMA,A family of large language models developed by Meta for AI research and applications.
-Mentimeter,Interactive presentation and polling tool.
-Messenger,Instant messaging app for communication and collaboration.
-Microsoft Excel,Spreadsheet software for data analysis and organization.
-Microsoft PowerPoint,Presentation software for creating slideshows.
-Microsoft Teams,"Collaboration and communication tool with chat, video calls, and file sharing."
-Microsoft Word,Word processing software for creating documents.
-Minecraft (Education Edition),Open-world game designed for learning through exploration and creativity.
-NotebookLM,An AI-powered research assistant developed by Google to help users summarize and analyze documents.
-Padlet,Collaborative digital board for sharing ideas and multimedia.
-Pear Deck,Interactive presentation tool for engaging students.
-Productivity Tools,"Applications that help users complete tasks efficiently, such as Google Drive, Trello, or Microsoft Excel."
-Quizizz,Gamified quiz tool for formative assessments.
-Quizlet,Flashcard-based learning platform for studying and revision.
-Schoology,Learning management system (LMS) for online courses.
-Scratch Jr,Visual programming language for young children to create interactive stories and games.
-Seesaw,Digital portfolio and communication tool for student engagement.
-Skype,Communication tool for video and audio calls.
-Term,Definition
-Zoom,Video conferencing platform for remote learning and meetings.
+Boom Learning,Digital platform for interactive learning and self-checking activities.,Functionality
+Canvas,LMS for digital learning and course management.,Learning Management System (LMS)
+ChatGPT,The AI that made most of the code for this glossary.,AI Writing & Content Generation
+Coggle,Online mind-mapping tool for brainstorming and organization.,Collaboration & Communication
+Copilot,"An AI-powered assistant developed by Microsoft to help users with coding, writing, and productivity tasks.",AI Writing & Content Generation
+DeepSeek AI,"An advanced language model developed by Hangzhou DeepSeek used for generating text, answering questions, and assisting with various tasks.",AI Writing & Content Generation
+Flipgrid,"Video discussion platform for student engagement, now part of Microsoft Teams.",Collaboration & Communication
+Gemini,"A family of AI models developed by Google DeepMind, designed for advanced reasoning and multimodal understanding.",AI Writing & Content Generation
+Google Classroom,LMS for managing assignments and student collaboration.,Learning Management System (LMS)
+Google Docs,Cloud-based word processing tool for collaboration.,Productivity & Document Editing
+Google Duo,Video calling app for one-on-one and group conversations. Now merged into Google Meet.,Collaboration & Communication
+Google Forms,"Tool for creating surveys, quizzes, and feedback forms.",Assessment & Feedback
+Google Meet,Video conferencing tool for virtual meetings and online classes.,Collaboration & Communication
+Google Sheets,Cloud-based spreadsheet tool for data organization.,Productivity & Data Management
+Google Slides,Cloud-based presentation tool for creating slideshows.,Productivity & Presentation
+Grammarly,"An AI-powered writing assistant that helps improve grammar, spelling, clarity, and style.",Writing & Language Enhancement
+Kahoot,Game-based learning platform for interactive quizzes.,Assessment & Feedback
+Linux,"Boss OS that can run on a potato (not really, but Linux on a potato was a great meme).",Operating System & Development
+LLaMA,A family of large language models developed by Meta for AI research and applications.,AI Writing & Content Generation
+Mentimeter,Interactive presentation and polling tool.,Assessment & Feedback
+Facebook Messenger,Instant messaging app for communication and collaboration.,Collaboration & Communication
+Microsoft Excel,Spreadsheet software for data analysis and organization.,Productivity & Data Management
+Microsoft PowerPoint,Presentation software for creating slideshows.,Productivity & Presentation
+Microsoft Teams,"Collaboration and communication tool with chat, video calls, and file sharing.",Collaboration & Communication
+Microsoft Word,Word processing software for creating documents.,Productivity & Document Editing
+Minecraft (Education Edition),Open-world game designed for learning through exploration and creativity.,Game-Based Learning
+NotebookLM,"An AI-powered research assistant by Google that helps summarize, analyze, and generate insights from uploaded documents.",AI-Powered Research & Knowledge Tool
+Padlet,Collaborative digital board for sharing ideas and multimedia.,Collaboration & Communication
+Pear Deck,Interactive presentation tool for engaging students.,Assessment & Feedback
+Quizizz,Gamified quiz tool for formative assessments.,Assessment & Feedback
+Quizlet,Flashcard-based learning platform for studying and revision.,Assessment & Feedback
+Schoology,Learning management system (LMS) for online courses.,Learning Management System (LMS)
+Scratch Jr,Block-based visual programming language designed for young children to create simple animations and interactive stories.,Coding & Development
+Seesaw,Digital portfolio and communication tool for student engagement.,Collaboration & Communication
+Skype,Communication tool for video and audio calls.,Collaboration & Communication
+Term,Definition,Operating System & Development
+Zoom,Video conferencing platform for remote learning and meetings.,Collaboration & Communication
