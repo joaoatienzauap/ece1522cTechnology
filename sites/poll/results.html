@@ -26,7 +26,7 @@
       //  const filePath = "data.json";//
 
         async function fetchData() {
-            const url = `https://raw.githubusercontent.com/joaoatienzauap/ece1522cTechnology/refs/heads/main/sites/poll/data.json`;
+            const url = `https://raw.githubusercontent.com/joaoatienzauap/ece1522cTechnology/main/sites/poll/data.json`;
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error("Failed to load data.");
