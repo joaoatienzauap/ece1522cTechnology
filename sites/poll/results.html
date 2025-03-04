@@ -26,20 +26,19 @@
       //  const filePath = "data.json";//
 
 
-      async function fetchData() {
-    const timestamp = new Date().getTime(); // Prevent caching
-    const url = `https://raw.githubusercontent.com/joaoatienzauap/ece1522cTechnology/main/sites/poll/data.jsontimestamp=${timestamp}`;
-    
-    try {
-        const response = await fetch(url, { cache: "no-store" }); // Force fresh fetch
-        if (!response.ok) throw new Error("Failed to load data.");
-        return await response.json();
-    } catch (error) {
-        console.error("Fetch error:", error);
-        return { "Option A": 0, "Option B": 0 }; // Default values on error
-    }
-}
-
+      
+        async function fetchData() {
+            const url = `https://raw.githubusercontent.com/joaoatienzauap/ece1522cTechnology/main/sites/poll/data.json`;
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("Failed to load data.");
+                return await response.json();
+            } catch (error) {
+                document.getElementById("status").textContent = "Error loading data.";
+                console.error(error);
+                return { "Option A": 0, "Option B": 0 }; // Default values if error
+            }
+        }
 
         const ctx = document.getElementById("myChart").getContext("2d");
         const myChart = new Chart(ctx, {
