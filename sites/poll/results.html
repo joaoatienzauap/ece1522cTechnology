@@ -22,11 +22,11 @@
     </div>
 
     <script>
-        const repo = "joaoatienzauap/ece1522cTechnology/sites/poll"; // Replace with your repo
-        const filePath = "data.json";
+       // const repo = "joaoatienzauap/ece1522cTechnology/sites/poll"; // Replace with your repo
+      //  const filePath = "data.json";//
 
         async function fetchData() {
-            const url = `https://raw.githubusercontent.com/${repo}/main/${filePath}`;
+            const url = `https://raw.githubusercontent.com/joaoatienzauap/ece1522cTechnology/refs/heads/main/sites/poll/data.json`;
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error("Failed to load data.");
